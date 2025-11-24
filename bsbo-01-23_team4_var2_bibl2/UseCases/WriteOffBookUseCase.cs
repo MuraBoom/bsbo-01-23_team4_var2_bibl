@@ -30,6 +30,6 @@ public class WriteOffBookUseCase
         }
 
         _repository.RemoveBook(book);
-        Console.WriteLine($"Книга \"{book.Title}\" списана из фонда.");
+        Console.WriteLine($"Книга \"{book.Title}\" Списана из фонда.");
     }
 }
