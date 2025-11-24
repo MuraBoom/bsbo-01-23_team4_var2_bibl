@@ -17,10 +17,10 @@ internal class Program
 
         while (true)
         {
-            Console.WriteLine("\n1 - Выдать книгу (Никита)");
-            Console.WriteLine("2 - Вернуть книгу (Юра)");
-            Console.WriteLine("3 - Добавить книгу (Даша)");
-            Console.WriteLine("4 - Списать книгу (Лиана)");
+            Console.WriteLine("\n1 - Выдать книгу");
+            Console.WriteLine("2 - Вернуть книгу");
+            Console.WriteLine("3 - Добавить книгу");
+            Console.WriteLine("4 - Списать книгу");
             Console.WriteLine("5 - Показать все книги");
             Console.WriteLine("6 - Показать всех читателей");
             Console.WriteLine("0 - Выход из программы");
